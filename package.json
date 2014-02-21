@@ -1,5 +1,5 @@
 {
-  "name": "morse-codes",
+  "name": "morse-decodes",
   "version": "0.0.0",
   "description": "the morse alphabet and other codes",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jarofghosts/morse-codes.git"
+    "url": "git://github.com/jarofghosts/morse-decodes.git"
   },
   "keywords": [
     "morse",
@@ -18,7 +18,7 @@
   "author": "jesse keane",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jarofghosts/morse-codes/issues"
+    "url": "https://github.com/jarofghosts/morse-decodes/issues"
   },
-  "homepage": "https://github.com/jarofghosts/morse-codes"
+  "homepage": "https://github.com/jarofghosts/morse-decodes"
 }
